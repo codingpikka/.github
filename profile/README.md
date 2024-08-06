@@ -13,7 +13,7 @@
   <p>백엔드는 <strong>Spring 프레임워크</strong> 를, 프론트엔드는 <strong>Vue.js 프레임워크</strong> 를 사용하여 구현할 예정입니다.</p>
   <br>
   <h3>프로젝트 기간</h3>
-  <p>2024.07.15 ~ 08.07</p>
+  <p>2024.07.15 ~ 08.16</p>
   <br>
   <h3 align="center">기여자</h3>
   <br>
