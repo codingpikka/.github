@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 
 <H1 align="center"> 청년 커리어 점프 프로젝트(Team: codingPikka)</H1>
