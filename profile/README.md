@@ -76,7 +76,7 @@
   <h4>벡엔드 프레임워크</h4>
   
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 
   <h4>프론트엔드 프레임워크</h4>
   
