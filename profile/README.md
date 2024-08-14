@@ -9,7 +9,7 @@
 👉 [프로젝트 미로](https://miro.com/welcomeonboard/YTREazNlSkVzMXB3TG5KYjRMZjBpd3V0bUVIcHRrR3hMNFFqU3FSRW5pM3ZNS01GVU9qaUwwcWo5aExBTTFlb3wzNDU4NzY0NTcxMjc0MDY4MjQ2fDI=?share_link_id=377827693780)
 <br>
   <h3>프로젝트 목표</h3>
-  <p> 관공서 일자리 정보, 자격증 등 청년들의 양질의 일자리와 커리어 정보를 찾을 수 있는 편리함을 제공하는 것을 목표로 합니다.</p> 
+  <p> 서울시 일자리 정보,잡카페 등 청년들의 양질의 일자리와 커리어 정보를 찾을 수 있는 편리함을 제공하는 것을 목표로 합니다.</p> 
   <p>백엔드는 <strong>Spring 프레임워크</strong> 를, 프론트엔드는 <strong>Vue.js 프레임워크</strong> 를 사용하여 구현할 예정입니다.</p>
   <br>
   <h3>프로젝트 기간</h3>
