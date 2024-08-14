@@ -81,7 +81,6 @@
   <h4>프론트엔드 프레임워크</h4>
   
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
   <h4>호스팅 및 배포</h4>
 
